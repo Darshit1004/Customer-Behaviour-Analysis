@@ -10,7 +10,7 @@ Core Focus: Transform raw customer data into meaningful behavioural insights for
 
 ## Project Overview
 
-This project performs customer behaviour analysis using a single dataset/file (`customer.ipix`). The analysis focuses on extracting patterns related to customer activity, spending habits, and segmentation.
+This project performs customer behaviour analysis using a single dataset/file (`customer.pbix`). The analysis focuses on extracting patterns related to customer activity, spending habits, and segmentation.
 
 The workflow includes:
 
@@ -39,7 +39,7 @@ The workflow includes:
 
 ## File Information
 
-- `customer.ipix` → Main dataset used for all analysis and insights generation  
+- `customer.pbix` → Main dataset used for all analysis and insights generation  
 
 ---
 
@@ -62,7 +62,7 @@ The workflow includes:
 ## How to Use
 
 1. Clone the repository  
-2. Load `customer.ipix` into your analysis environment  
+2. Load `customer.pbix` into your analysis environment  
 3. Run your analysis scripts/notebooks  
 4. View insights and dashboard outputs  
 
