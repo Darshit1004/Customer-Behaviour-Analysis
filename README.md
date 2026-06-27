@@ -39,7 +39,7 @@ The workflow includes:
 
 ## File Information
 
-- `customer.pbix` → Main dataset used for all analysis and insights generation  
+- `customer.pbix` → Dashboard showing all the analysis and insights generation  
 
 ---
 
@@ -55,16 +55,7 @@ The workflow includes:
 |----------------|----------------|
 | Data Analysis  | Python |
 | Data Handling  | Pandas, NumPy |
-| Visualization  | Matplotlib, Seaborn (optional) |
-
----
-
-## How to Use
-
-1. Clone the repository  
-2. Load `customer.pbix` into your analysis environment  
-3. Run your analysis scripts/notebooks  
-4. View insights and dashboard outputs  
+| Visualization  | PowerBI |
 
 ---
 
