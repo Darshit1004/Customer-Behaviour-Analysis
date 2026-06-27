@@ -45,7 +45,7 @@ The workflow includes:
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
